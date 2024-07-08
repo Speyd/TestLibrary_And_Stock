@@ -1,0 +1,22 @@
+Loger
+Type: Object.Loger
+Text: Stock.addProduct(): CountProduct == MaxCountProduct
+Time: 08.07.2024 11:15:44
+Exception Method: addProduct
+Exception Line: 40
+Full Method: <Main>$.addProduct.addProduct.
+Full line method: <Main>$(line: 29) | addProduct(line: 58) | addProduct(line: 40) | 
+File: D:\C++ проекты\TestLibrary\Stocks\StockManipulator.cs
+Help Link: NONE_LINK
+
+Loger
+Type: Object.Loger
+Text: Stock.deleteProduct(): deleteProduct is null
+Time: 08.07.2024 11:15:44
+Exception Method: deleteProduct
+Exception Line: 18
+Full Method: <Main>$.deleteProduct.
+Full line method: <Main>$(line: 45) | deleteProduct(line: 18) | 
+File: D:\C++ проекты\TestLibrary\Stocks\StockManipulator.cs
+Help Link: NONE_LINK
+

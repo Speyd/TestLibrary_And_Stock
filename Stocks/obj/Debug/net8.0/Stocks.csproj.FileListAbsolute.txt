@@ -1,0 +1,17 @@
+D:\C++ проекты\TestLibrary\Stocks\obj\Debug\net8.0\Stocks.csproj.AssemblyReference.cache
+D:\C++ проекты\TestLibrary\Stocks\obj\Debug\net8.0\Stocks.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ проекты\TestLibrary\Stocks\obj\Debug\net8.0\Stocks.AssemblyInfoInputs.cache
+D:\C++ проекты\TestLibrary\Stocks\obj\Debug\net8.0\Stocks.AssemblyInfo.cs
+D:\C++ проекты\TestLibrary\Stocks\obj\Debug\net8.0\Stocks.csproj.CoreCompileInputs.cache
+D:\C++ проекты\TestLibrary\Stocks\bin\Debug\net8.0\Stocks.deps.json
+D:\C++ проекты\TestLibrary\Stocks\bin\Debug\net8.0\Stocks.dll
+D:\C++ проекты\TestLibrary\Stocks\bin\Debug\net8.0\Stocks.pdb
+D:\C++ проекты\TestLibrary\Stocks\bin\Debug\net8.0\Logers.dll
+D:\C++ проекты\TestLibrary\Stocks\bin\Debug\net8.0\Products.dll
+D:\C++ проекты\TestLibrary\Stocks\bin\Debug\net8.0\Logers.pdb
+D:\C++ проекты\TestLibrary\Stocks\bin\Debug\net8.0\Products.pdb
+D:\C++ проекты\TestLibrary\Stocks\obj\Debug\net8.0\Stocks.csproj.Up2Date
+D:\C++ проекты\TestLibrary\Stocks\obj\Debug\net8.0\Stocks.dll
+D:\C++ проекты\TestLibrary\Stocks\obj\Debug\net8.0\refint\Stocks.dll
+D:\C++ проекты\TestLibrary\Stocks\obj\Debug\net8.0\Stocks.pdb
+D:\C++ проекты\TestLibrary\Stocks\obj\Debug\net8.0\ref\Stocks.dll

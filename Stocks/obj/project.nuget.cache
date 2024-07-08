@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XmWk//iVTaoOWnPqmUqV/ikppxFhmYxmJgh7mdpE8MQHs1nF0/cQj+nsKVHoVKjeGBYIw90RQ8hAKtfwsFW1LQ==",
+  "success": true,
+  "projectFilePath": "D:\\C++ проекты\\TestLibrary\\Stocks\\Stocks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

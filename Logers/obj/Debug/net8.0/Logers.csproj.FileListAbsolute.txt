@@ -1,0 +1,11 @@
+D:\C++ проекты\TestLibrary\Logers\bin\Debug\net8.0\Logers.deps.json
+D:\C++ проекты\TestLibrary\Logers\bin\Debug\net8.0\Logers.dll
+D:\C++ проекты\TestLibrary\Logers\bin\Debug\net8.0\Logers.pdb
+D:\C++ проекты\TestLibrary\Logers\obj\Debug\net8.0\Logers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ проекты\TestLibrary\Logers\obj\Debug\net8.0\Logers.AssemblyInfoInputs.cache
+D:\C++ проекты\TestLibrary\Logers\obj\Debug\net8.0\Logers.AssemblyInfo.cs
+D:\C++ проекты\TestLibrary\Logers\obj\Debug\net8.0\Logers.csproj.CoreCompileInputs.cache
+D:\C++ проекты\TestLibrary\Logers\obj\Debug\net8.0\Logers.dll
+D:\C++ проекты\TestLibrary\Logers\obj\Debug\net8.0\refint\Logers.dll
+D:\C++ проекты\TestLibrary\Logers\obj\Debug\net8.0\Logers.pdb
+D:\C++ проекты\TestLibrary\Logers\obj\Debug\net8.0\ref\Logers.dll

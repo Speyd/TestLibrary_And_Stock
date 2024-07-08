@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "Id": 2,
+      "Amount": 1,
+      "Name": "Loll",
+      "Description": "Nonett"
+    }
+  ],
+  "Name": "Bimba",
+  "MaxCountProduct": 1,
+  "CountProduct": 1
+}

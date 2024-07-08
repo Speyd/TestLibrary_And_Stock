@@ -1,0 +1,11 @@
+D:\C++ проекты\TestLibrary\RandomLibrary\bin\Debug\net8.0\RandomLibrary.deps.json
+D:\C++ проекты\TestLibrary\RandomLibrary\bin\Debug\net8.0\RandomLibrary.dll
+D:\C++ проекты\TestLibrary\RandomLibrary\bin\Debug\net8.0\RandomLibrary.pdb
+D:\C++ проекты\TestLibrary\RandomLibrary\obj\Debug\net8.0\RandomLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ проекты\TestLibrary\RandomLibrary\obj\Debug\net8.0\RandomLibrary.AssemblyInfoInputs.cache
+D:\C++ проекты\TestLibrary\RandomLibrary\obj\Debug\net8.0\RandomLibrary.AssemblyInfo.cs
+D:\C++ проекты\TestLibrary\RandomLibrary\obj\Debug\net8.0\RandomLibrary.csproj.CoreCompileInputs.cache
+D:\C++ проекты\TestLibrary\RandomLibrary\obj\Debug\net8.0\RandomLibrary.dll
+D:\C++ проекты\TestLibrary\RandomLibrary\obj\Debug\net8.0\refint\RandomLibrary.dll
+D:\C++ проекты\TestLibrary\RandomLibrary\obj\Debug\net8.0\RandomLibrary.pdb
+D:\C++ проекты\TestLibrary\RandomLibrary\obj\Debug\net8.0\ref\RandomLibrary.dll
